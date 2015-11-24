@@ -1,0 +1,1 @@
+{"version":3,"sources":["base/_base.scss","base/_mixins.scss","base/_variables.scss"],"names":[],"mappings":"AAAA,EAAE,CAAC;ECCD,KAAK,ECDD,GAAG,GFER","file":"application.css","sourcesContent":["h1 {\n  @include container;\n}\n","@mixin container {\n  color: $red;\n}\n","$red: red;\n"],"sourceRoot":"/source/"}

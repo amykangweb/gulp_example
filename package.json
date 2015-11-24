@@ -1,0 +1,27 @@
+{
+  "name": "gulp_example",
+  "version": "1.0.0",
+  "description": "<h1>Gulp Example App</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amykangweb/gulp_example.git"
+  },
+  "author": "Amy Kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amykangweb/gulp_example/issues"
+  },
+  "homepage": "https://github.com/amykangweb/gulp_example#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1"
+  }
+}
